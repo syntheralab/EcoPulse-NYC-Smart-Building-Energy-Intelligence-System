@@ -36,3 +36,5 @@ While a 1.0 accuracy is unusual in real-world messy data, in this intelligence s
 1. **Feature-Target Synergy:** The `Energy_Grade` is a direct reflection of the `Energy_Score`. Including the score as a predictor allows the Decision Tree to create perfect splits.
 2. **Pattern Recognition:** The Random Forest algorithm effectively "learned" the NYC Department of Buildings' grading scale logic.
 3. **Model Robustness:** It proves that for this specific dataset, the AI has perfectly captured the underlying energy efficiency rules.
+
+   LINK 3D  https://syntheralab.github.io/EcoPulse-NYC-Smart-Building-Energy-Intelligence-System/
